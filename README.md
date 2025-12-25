@@ -30,8 +30,9 @@
   <a href="https://spring.io/projects/spring-data-jpa" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="jpa" width="40" height="40"/> 
   </a>
-  <a href="https://microservices.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/microservicesio/microservicesio-icon.svg" alt="microservices" width="40" height="40"/> 
+  <!-- Fixed Microservices icon - using cloud icon as alternative -->
+  <a href="https://spring.io/projects/spring-cloud" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloud/cloud-original.svg" alt="microservices" width="40" height="40"/> 
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
@@ -50,9 +51,9 @@
   </a>
 </p>
 
+<!-- Fixed GitHub Stats - add these parameters -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankush-verma014&show_icons=true&locale=en&layout=compact&theme=radical" alt="ankush-verma014" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankush-verma014&show_icons=true&locale=en&layout=compact" alt="ankush-verma014" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankush-verma014&show_icons=true&locale=en&theme=radical" alt="ankush-verma014" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankush-verma014&show_icons=true&locale=en" alt="ankush-verma014" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankush-verma014&" alt="ankush-verma014" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankush-verma014&theme=radical" alt="ankush-verma014" /></p>
